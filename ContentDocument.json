@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "ContentDocument",
+                "referenceId": "ContentDocumentRef1"
+            },
+            "FileExtension": "jpg",
+            "FileType": "JPG",
+            "ContentSize": 35951,
+            "Title": "octocatbeer"
+        },
+        {
+            "attributes": {
+                "type": "ContentDocument",
+                "referenceId": "ContentDocumentRef2"
+            },
+            "FileExtension": "jpg",
+            "FileType": "JPG",
+            "ContentSize": 114132,
+            "Title": "alorsquoidefun-snack-overflow-exception-stack-overflow"
+        }
+    ]
+}

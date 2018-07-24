@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contract",
+                "referenceId": "ContractRef1"
+            },
+            "ContractNumber": "00000102",
+            "Status": "Draft"
+        },
+        {
+            "attributes": {
+                "type": "Contract",
+                "referenceId": "ContractRef2"
+            },
+            "ContractNumber": "00000100",
+            "Status": "Draft"
+        },
+        {
+            "attributes": {
+                "type": "Contract",
+                "referenceId": "ContractRef3"
+            },
+            "ContractNumber": "00000101",
+            "Status": "Draft"
+        }
+    ]
+}

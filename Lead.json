@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Lead",
+                "referenceId": "LeadRef1"
+            },
+            "Name": "Test Quick Lead Flow",
+            "Company": "SNACKOVERFLOW.io",
+            "Status": "Open - Not Contacted"
+        }
+    ]
+}
